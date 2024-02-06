@@ -84,5 +84,6 @@ button:hover {
 #list li.completed {
     /* Completed task styles */
     background-color: #f08f8f; 
-    text-decoration: line-through; 
+    text-decoration: line-through;
   }
+
